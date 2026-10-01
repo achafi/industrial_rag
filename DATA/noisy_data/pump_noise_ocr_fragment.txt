@@ -1,0 +1,7 @@
+OCR FRAGMENT — UNKNOWN PUMP, AREA AND REVISION; LOW CONFIDENCE
+
+... P-10? suction pres low ... 2.0 barg (?)
+... gravel at bearing / cavit? ... close discharge 1/2 turn ...
+... 85 C limit ... do not trip ...
+
+Characters, units, equipment identity, context and document status are unknown. Values and proposed actions are unverified transcription artifacts, not P4711 limits or instructions. Do not apply them to operations or maintenance.

@@ -1,0 +1,893 @@
+{
+  "document_id": "dexpi_reference_pid",
+  "page": 1,
+  "image_width": 5000,
+  "image_height": 3536,
+  "source_sha256": "05a86f076f6b7a1ef06ef57d7fae1d25fe6d78f95ba8bd2a393c9d07af2e68f9",
+  "method": "regex candidates from OCR, followed by editable prefix lookup",
+  "rules": {
+    "tag_pattern": "(?<![\\w./-])(?P<prefix>[A-Z]{1,5})(?:\\s*-\\s*|\\s*)(?P<number>\\d{3,6})(?P<letter_suffix>[A-Z]?)(?P<dot_suffix>\\.\\d{1,2})?(?![\\w./-])",
+    "pattern_flags": [
+      "IGNORECASE"
+    ],
+    "prefix_rules": {
+      "P": {
+        "category": "equipment",
+        "type": "pump"
+      },
+      "H": {
+        "category": "equipment",
+        "type": "heat_exchanger"
+      },
+      "T": {
+        "category": "equipment",
+        "type": "tank_or_vessel"
+      },
+      "PV": {
+        "category": "instrument",
+        "type": "pressure_valve"
+      },
+      "TV": {
+        "category": "instrument",
+        "type": "temperature_valve"
+      },
+      "SV": {
+        "category": "instrument",
+        "type": "safety_valve"
+      },
+      "PI": {
+        "category": "instrument",
+        "type": "pressure_indicator"
+      },
+      "PT": {
+        "category": "instrument",
+        "type": "pressure_transmitter"
+      },
+      "PIC": {
+        "category": "instrument",
+        "type": "pressure_indicating_controller"
+      },
+      "PICSA": {
+        "category": "instrument",
+        "type": "pressure_function_label"
+      },
+      "TI": {
+        "category": "instrument",
+        "type": "temperature_indicator"
+      },
+      "TT": {
+        "category": "instrument",
+        "type": "temperature_transmitter"
+      },
+      "TIC": {
+        "category": "instrument",
+        "type": "temperature_indicating_controller"
+      },
+      "TICSA": {
+        "category": "instrument",
+        "type": "temperature_function_label"
+      },
+      "FI": {
+        "category": "instrument",
+        "type": "flow_indicator"
+      },
+      "FT": {
+        "category": "instrument",
+        "type": "flow_transmitter"
+      },
+      "FIC": {
+        "category": "instrument",
+        "type": "flow_indicating_controller"
+      },
+      "LI": {
+        "category": "instrument",
+        "type": "level_indicator"
+      },
+      "LT": {
+        "category": "instrument",
+        "type": "level_transmitter"
+      },
+      "LIC": {
+        "category": "instrument",
+        "type": "level_indicating_controller"
+      },
+      "HS": {
+        "category": "instrument",
+        "type": "hand_switch"
+      }
+    },
+    "excluded_prefixes": [
+      "DN",
+      "MNB",
+      "MNC",
+      "N",
+      "PN",
+      "Q",
+      "QSA",
+      "QSB",
+      "WKA",
+      "WKB"
+    ],
+    "standalone_function_prefixes": [
+      "FI",
+      "FIC",
+      "FT",
+      "HS",
+      "LI",
+      "LIC",
+      "LT",
+      "PI",
+      "PIC",
+      "PICSA",
+      "PT",
+      "TI",
+      "TIC",
+      "TICSA",
+      "TT"
+    ],
+    "canonicalization": "uppercase prefix and suffix; remove prefix/number separator; preserve dotted suffix",
+    "verified_against_legend_or_register": false
+  },
+  "candidates": [
+    {
+      "id": "tag-0001",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "TICSA",
+      "candidate_kind": "instrument_function_only",
+      "tag_normalized": null,
+      "prefix": "TICSA",
+      "identifier": null,
+      "category": "instrument",
+      "type": "temperature_function_label",
+      "rule_id": "standalone_function:TICSA",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0012",
+      "region_type": "process_drawing",
+      "source_text_raw": "TICSA",
+      "source_text_normalized": "TICSA",
+      "ocr_confidence": 0.9988036274909973,
+      "bounding_box": {
+        "x_min": 2377,
+        "y_min": 688,
+        "x_max": 2484,
+        "y_max": 723
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.4754,
+        "y_min": 0.19457013574660634,
+        "x_max": 0.4968,
+        "y_max": 0.2044683257918552
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0002",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "t 215",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "T215",
+      "prefix": "T",
+      "identifier": "215",
+      "category": "equipment",
+      "type": "tank_or_vessel",
+      "rule_id": "prefix:T",
+      "match_span_normalized_text": [
+        1,
+        6
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0019",
+      "region_type": "process_drawing",
+      "source_text_raw": "%t 215",
+      "source_text_normalized": "%t 215",
+      "ocr_confidence": 0.619817982117335,
+      "bounding_box": {
+        "x_min": 2488,
+        "y_min": 931,
+        "x_max": 2549,
+        "y_max": 1172
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.4976,
+        "y_min": 0.2632918552036199,
+        "x_max": 0.5098,
+        "y_max": 0.33144796380090497
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0003",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "PV4712.02",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "PV4712.02",
+      "prefix": "PV",
+      "identifier": "4712.02",
+      "category": "instrument",
+      "type": "pressure_valve",
+      "rule_id": "prefix:PV",
+      "match_span_normalized_text": [
+        0,
+        9
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0027",
+      "region_type": "process_drawing",
+      "source_text_raw": "PV4712.02",
+      "source_text_normalized": "PV4712.02",
+      "ocr_confidence": 0.999826278951433,
+      "bounding_box": {
+        "x_min": 3789,
+        "y_min": 1067,
+        "x_max": 3829,
+        "y_max": 1264
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.7578,
+        "y_min": 0.30175339366515835,
+        "x_max": 0.7658,
+        "y_max": 0.3574660633484163
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0004",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "SV 104.01",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "SV104.01",
+      "prefix": "SV",
+      "identifier": "104.01",
+      "category": "instrument",
+      "type": "safety_valve",
+      "rule_id": "prefix:SV",
+      "match_span_normalized_text": [
+        0,
+        9
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0030",
+      "region_type": "process_drawing",
+      "source_text_raw": "SV 104.01",
+      "source_text_normalized": "SV 104.01",
+      "ocr_confidence": 0.996066325240665,
+      "bounding_box": {
+        "x_min": 3262,
+        "y_min": 1089,
+        "x_max": 3439,
+        "y_max": 1123
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.6524,
+        "y_min": 0.30797511312217196,
+        "x_max": 0.6878,
+        "y_max": 0.31759049773755654
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0005",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "T4750",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "T4750",
+      "prefix": "T",
+      "identifier": "4750",
+      "category": "equipment",
+      "type": "tank_or_vessel",
+      "rule_id": "prefix:T",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0036",
+      "region_type": "process_drawing",
+      "source_text_raw": "T4750",
+      "source_text_normalized": "T4750",
+      "ocr_confidence": 0.9997890710830688,
+      "bounding_box": {
+        "x_min": 2222,
+        "y_min": 1152,
+        "x_max": 2396,
+        "y_max": 1203
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.4444,
+        "y_min": 0.3257918552036199,
+        "x_max": 0.4792,
+        "y_max": 0.34021493212669685
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0006",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "TV4750.03",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "TV4750.03",
+      "prefix": "TV",
+      "identifier": "4750.03",
+      "category": "instrument",
+      "type": "temperature_valve",
+      "rule_id": "prefix:TV",
+      "match_span_normalized_text": [
+        0,
+        9
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0046",
+      "region_type": "process_drawing",
+      "source_text_raw": "TV4750.03",
+      "source_text_normalized": "TV4750.03",
+      "ocr_confidence": 0.9998427960607741,
+      "bounding_box": {
+        "x_min": 3956,
+        "y_min": 1363,
+        "x_max": 4153,
+        "y_max": 1396
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.7912,
+        "y_min": 0.3854638009049774,
+        "x_max": 0.8306,
+        "y_max": 0.3947963800904977
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0007",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "HS",
+      "candidate_kind": "instrument_function_only",
+      "tag_normalized": null,
+      "prefix": "HS",
+      "identifier": null,
+      "category": "instrument",
+      "type": "hand_switch",
+      "rule_id": "standalone_function:HS",
+      "match_span_normalized_text": [
+        0,
+        2
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0047",
+      "region_type": "process_drawing",
+      "source_text_raw": "HS",
+      "source_text_normalized": "HS",
+      "ocr_confidence": 0.9995449185371399,
+      "bounding_box": {
+        "x_min": 1602,
+        "y_min": 1376,
+        "x_max": 1660,
+        "y_max": 1415
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.3204,
+        "y_min": 0.3891402714932127,
+        "x_max": 0.332,
+        "y_max": 0.4001696832579186
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0008",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "H1008",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "H1008",
+      "prefix": "H",
+      "identifier": "1008",
+      "category": "equipment",
+      "type": "heat_exchanger",
+      "rule_id": "prefix:H",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0060",
+      "region_type": "process_drawing",
+      "source_text_raw": "H1008",
+      "source_text_normalized": "H1008",
+      "ocr_confidence": 0.9974576115608216,
+      "bounding_box": {
+        "x_min": 3626,
+        "y_min": 1524,
+        "x_max": 3801,
+        "y_max": 1569
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.7252,
+        "y_min": 0.4309954751131222,
+        "x_max": 0.7602,
+        "y_max": 0.44372171945701355
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0009",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "PI",
+      "candidate_kind": "instrument_function_only",
+      "tag_normalized": null,
+      "prefix": "PI",
+      "identifier": null,
+      "category": "instrument",
+      "type": "pressure_indicator",
+      "rule_id": "standalone_function:PI",
+      "match_span_normalized_text": [
+        0,
+        2
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0064",
+      "region_type": "process_drawing",
+      "source_text_raw": "PI",
+      "source_text_normalized": "PI",
+      "ocr_confidence": 0.9670195877552032,
+      "bounding_box": {
+        "x_min": 3326,
+        "y_min": 1531,
+        "x_max": 3367,
+        "y_max": 1569
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.6652,
+        "y_min": 0.43297511312217196,
+        "x_max": 0.6734,
+        "y_max": 0.44372171945701355
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0010",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "PICSA",
+      "candidate_kind": "instrument_function_only",
+      "tag_normalized": null,
+      "prefix": "PICSA",
+      "identifier": null,
+      "category": "instrument",
+      "type": "pressure_function_label",
+      "rule_id": "standalone_function:PICSA",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0067",
+      "region_type": "process_drawing",
+      "source_text_raw": "PICSA",
+      "source_text_normalized": "PICSA",
+      "ocr_confidence": 0.9993237495422364,
+      "bounding_box": {
+        "x_min": 4289,
+        "y_min": 1534,
+        "x_max": 4399,
+        "y_max": 1568
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.8578,
+        "y_min": 0.4338235294117647,
+        "x_max": 0.8798,
+        "y_max": 0.4434389140271493
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0011",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "P4711",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "P4711",
+      "prefix": "P",
+      "identifier": "4711",
+      "category": "equipment",
+      "type": "pump",
+      "rule_id": "prefix:P",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0083",
+      "region_type": "process_drawing",
+      "source_text_raw": "P4711",
+      "source_text_normalized": "P4711",
+      "ocr_confidence": 0.9981362104415894,
+      "bounding_box": {
+        "x_min": 915,
+        "y_min": 1699,
+        "x_max": 1081,
+        "y_max": 1749
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.183,
+        "y_min": 0.48048642533936653,
+        "x_max": 0.2162,
+        "y_max": 0.4946266968325792
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0012",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "P4712",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "P4712",
+      "prefix": "P",
+      "identifier": "4712",
+      "category": "equipment",
+      "type": "pump",
+      "rule_id": "prefix:P",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0084",
+      "region_type": "process_drawing",
+      "source_text_raw": "P4712",
+      "source_text_normalized": "P4712",
+      "ocr_confidence": 0.9996490240097046,
+      "bounding_box": {
+        "x_min": 2903,
+        "y_min": 1701,
+        "x_max": 3072,
+        "y_max": 1749
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.5806,
+        "y_min": 0.48105203619909503,
+        "x_max": 0.6144,
+        "y_max": 0.4946266968325792
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0013",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "H1007",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "H1007",
+      "prefix": "H",
+      "identifier": "1007",
+      "category": "equipment",
+      "type": "heat_exchanger",
+      "rule_id": "prefix:H",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0105",
+      "region_type": "process_drawing",
+      "source_text_raw": "H1007",
+      "source_text_normalized": "H1007",
+      "ocr_confidence": 0.9973375797271729,
+      "bounding_box": {
+        "x_min": 1580,
+        "y_min": 1911,
+        "x_max": 1753,
+        "y_max": 1956
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.316,
+        "y_min": 0.5404411764705882,
+        "x_max": 0.3506,
+        "y_max": 0.5531674208144797
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0014",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "H1007",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "H1007",
+      "prefix": "H",
+      "identifier": "1007",
+      "category": "equipment",
+      "type": "heat_exchanger",
+      "rule_id": "prefix:H",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0123",
+      "region_type": "equipment_data_table",
+      "source_text_raw": "H1007",
+      "source_text_normalized": "H1007",
+      "ocr_confidence": 0.9992170333862305,
+      "bounding_box": {
+        "x_min": 913,
+        "y_min": 2819,
+        "x_max": 1015,
+        "y_max": 2850
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.1826,
+        "y_min": 0.7972285067873304,
+        "x_max": 0.203,
+        "y_max": 0.8059954751131222
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0015",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "H1008",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "H1008",
+      "prefix": "H",
+      "identifier": "1008",
+      "category": "equipment",
+      "type": "heat_exchanger",
+      "rule_id": "prefix:H",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0125",
+      "region_type": "equipment_data_table",
+      "source_text_raw": "H1008",
+      "source_text_normalized": "H1008",
+      "ocr_confidence": 0.9992413401603699,
+      "bounding_box": {
+        "x_min": 2008,
+        "y_min": 2819,
+        "x_max": 2112,
+        "y_max": 2850
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.4016,
+        "y_min": 0.7972285067873304,
+        "x_max": 0.4224,
+        "y_max": 0.8059954751131222
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0016",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "P4712",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "P4712",
+      "prefix": "P",
+      "identifier": "4712",
+      "category": "equipment",
+      "type": "pump",
+      "rule_id": "prefix:P",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0170",
+      "region_type": "equipment_data_table",
+      "source_text_raw": "P4712",
+      "source_text_normalized": "P4712",
+      "ocr_confidence": 0.999841284751892,
+      "bounding_box": {
+        "x_min": 2010,
+        "y_min": 3155,
+        "x_max": 2110,
+        "y_max": 3191
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.402,
+        "y_min": 0.8922511312217195,
+        "x_max": 0.422,
+        "y_max": 0.9024321266968326
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0017",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "P4711",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "P4711",
+      "prefix": "P",
+      "identifier": "4711",
+      "category": "equipment",
+      "type": "pump",
+      "rule_id": "prefix:P",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0171",
+      "region_type": "equipment_data_table",
+      "source_text_raw": "P4711",
+      "source_text_normalized": "P4711",
+      "ocr_confidence": 0.9995762467384338,
+      "bounding_box": {
+        "x_min": 914,
+        "y_min": 3156,
+        "x_max": 1013,
+        "y_max": 3190
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.1828,
+        "y_min": 0.8925339366515838,
+        "x_max": 0.2026,
+        "y_max": 0.9021493212669683
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0018",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "T4750",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "T4750",
+      "prefix": "T",
+      "identifier": "4750",
+      "category": "equipment",
+      "type": "tank_or_vessel",
+      "rule_id": "prefix:T",
+      "match_span_normalized_text": [
+        0,
+        5
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0175",
+      "region_type": "equipment_data_table",
+      "source_text_raw": "T4750",
+      "source_text_normalized": "T4750",
+      "ocr_confidence": 0.9997713804244995,
+      "bounding_box": {
+        "x_min": 3106,
+        "y_min": 3159,
+        "x_max": 3205,
+        "y_max": 3187
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.6212,
+        "y_min": 0.8933823529411765,
+        "x_max": 0.641,
+        "y_max": 0.9013009049773756
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0019",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "Wheel600",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "WHEEL600",
+      "prefix": "WHEEL",
+      "identifier": "600",
+      "category": "unknown",
+      "type": "unknown",
+      "rule_id": "unknown_prefix",
+      "match_span_normalized_text": [
+        39,
+        47
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0227",
+      "region_type": "equipment_data_table",
+      "source_text_raw": "Design Speed / Design Power max. Diam. Wheel600 1/min",
+      "source_text_normalized": "Design Speed / Design Power max. Diam. Wheel600 1/min",
+      "ocr_confidence": 0.964750422621673,
+      "bounding_box": {
+        "x_min": 79,
+        "y_min": 3389,
+        "x_max": 952,
+        "y_max": 3423
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.0158,
+        "y_min": 0.9584276018099548,
+        "x_max": 0.1904,
+        "y_max": 0.9680429864253394
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    },
+    {
+      "id": "tag-0020",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "matched_text": "Whee400",
+      "candidate_kind": "complete_tag_candidate",
+      "tag_normalized": "WHEE400",
+      "prefix": "WHEE",
+      "identifier": "400",
+      "category": "unknown",
+      "type": "unknown",
+      "rule_id": "unknown_prefix",
+      "match_span_normalized_text": [
+        32,
+        39
+      ],
+      "source": "ocr",
+      "source_detection_id": "text-0228",
+      "region_type": "equipment_data_table",
+      "source_text_raw": "Speed / Design Power max. Diam. Whee400 1/min",
+      "source_text_normalized": "Speed / Design Power max. Diam. Whee400 1/min",
+      "ocr_confidence": 0.9813098947207133,
+      "bounding_box": {
+        "x_min": 1287,
+        "y_min": 3389,
+        "x_max": 2056,
+        "y_max": 3423
+      },
+      "bounding_box_normalized": {
+        "x_min": 0.2574,
+        "y_min": 0.9584276018099548,
+        "x_max": 0.4112,
+        "y_max": 0.9680429864253394
+      },
+      "geometry_scope": "parent_ocr_region",
+      "classification_status": "provisional",
+      "needs_review": true
+    }
+  ]
+}

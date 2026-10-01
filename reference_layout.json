@@ -1,0 +1,94 @@
+{
+  "DRAWING_CONTENT_BOUNDS": {
+    "x_min": 0.01,
+    "y_min": 0.015,
+    "x_max": 0.99,
+    "y_max": 0.985
+  },
+  "REGION_ZONES": {
+    "title_block": [
+      {
+        "x_min": 0.7,
+        "y_min": 0.88,
+        "x_max": 0.99,
+        "y_max": 0.985
+      }
+    ],
+    "equipment_data_table": [
+      {
+        "x_min": 0.01,
+        "y_min": 0.79,
+        "x_max": 0.45,
+        "y_max": 0.89
+      },
+      {
+        "x_min": 0.01,
+        "y_min": 0.89,
+        "x_max": 0.67,
+        "y_max": 0.985
+      }
+    ]
+  },
+  "REGION_INSTANCES": [
+    {
+      "region_id": "table_upper_left",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.014,
+        "y_min": 0.795,
+        "x_max": 0.229,
+        "y_max": 0.885
+      }
+    },
+    {
+      "region_id": "table_upper_middle",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.233,
+        "y_min": 0.795,
+        "x_max": 0.449,
+        "y_max": 0.885
+      }
+    },
+    {
+      "region_id": "table_lower_left",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.014,
+        "y_min": 0.89,
+        "x_max": 0.229,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "table_lower_middle",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.233,
+        "y_min": 0.89,
+        "x_max": 0.449,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "table_lower_right",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.452,
+        "y_min": 0.89,
+        "x_max": 0.668,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "title_block_main",
+      "region_type": "title_block",
+      "bounds_normalized": {
+        "x_min": 0.7,
+        "y_min": 0.88,
+        "x_max": 0.99,
+        "y_max": 0.985
+      }
+    }
+  ]
+}

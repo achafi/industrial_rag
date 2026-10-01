@@ -1,0 +1,30 @@
+{
+  "record_type": "synthetic_training_work_order",
+  "work_order": "DEMO-WO-2026-00471",
+  "revision": 1,
+  "status": "planning_example_only_not_released_for_work",
+  "asset_tag": "P4711",
+  "area": "47",
+  "reported_symptom": "Operator reports a new visible liquid trace near the pump seal area during a routine round.",
+  "reported_at": "2026-09-28T08:20:00+02:00",
+  "verified_facts": ["P4711 tag appears on area_47_reference_pid.svg"],
+  "unverified_or_missing": [
+    "fluid identity and hazard classification",
+    "leak rate and severity",
+    "pump operating state and process conditions",
+    "pump model and mechanical seal configuration",
+    "approved isolation boundary and energy-control procedure",
+    "acceptance criteria and return-to-service tests"
+  ],
+  "planning_hold_points": [
+    "Operations assesses the condition under current site abnormal-situation procedures.",
+    "Obtain current controlled P&ID, equipment datasheet, OEM pump/seal manual, and site isolation procedure.",
+    "Authorized site personnel determine work scope, risk controls, permits, isolation, verification, and acceptance criteria.",
+    "Do not release this synthetic record as a field work order."
+  ],
+  "source_documents": [
+    "area_47_reference_pid.svg",
+    "use_case_p4711_seal_leak.md",
+    "standards_and_authoritative_sources.md"
+  ]
+}

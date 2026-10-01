@@ -1,0 +1,13 @@
+AREA 47 DOCUMENT INDEX — SYNTHETIC EXAMPLE
+Index ID: DEMO-DOC-INDEX-047 | Revision: 2
+
+Base drawing: area_47_reference_pid.svg — synthetic tag-recognition P&ID training example. The drawing itself does not define the supplemental process connections or capacities.
+Supplemental fictional process design: area_47_synthetic_process_design_basis_rev3.md — DEMO-PFD-047-003 rev 3.
+DEXPI-inspired topology: area_47_process_topology_dexpi_inspired.json — simplified demo graph, NOT DEXPI schema compliant and NOT an engineering exchange file.
+Equipment data: area_47_equipment_datasheets_rev3.csv — invented illustrative values for this training scenario.
+Instrument monitoring: area_47_instrument_monitoring_register_rev3.csv and area_47_operator_monitoring_guide_rev3.md — fictional instruments and thresholds; not alarm response procedures.
+Maintenance: area_47_maintenance_procedure.html — illustrative P4711 checklist; training use only.
+Asset register: area_47_asset_register.csv — tag index linking original drawing tags with supplemental fictional scenario records.
+Work history: area_47_maintenance_log.txt and p4711_failure_history.csv — mock records only.
+
+All capacities, services, design conditions, setpoints, alarms, routes, and connections in the supplemental design package are invented. They do not come from the original SVG or a real plant. No approved plant standards, vendor manuals, site alarm response instructions, equipment-specific isolation instructions, or certified relief-device design are included. The noisy-data folder contains unverified conflicting distractors; the true_data files are internally consistent only for the fictional demo scenario.

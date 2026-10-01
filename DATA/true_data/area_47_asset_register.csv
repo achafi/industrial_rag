@@ -1,0 +1,9 @@
+tag,area,asset_type,source_reference,notes
+P4711,Area 47,centrifugal transfer pump,area_47_reference_pid.svg; area_47_equipment_datasheets_rev3.csv,Tag appears on synthetic reference drawing; fictional service and data are in DEMO-DS-047-003 rev 3
+H1007,Area 47,shell-and-tube cooler,area_47_reference_pid.svg; area_47_equipment_datasheets_rev3.csv,Tag appears on synthetic reference drawing; fictional cooler duty and service are in DEMO-DS-047-003 rev 3
+T4750,Area 47,closed buffer vessel,area_47_reference_pid.svg; area_47_equipment_datasheets_rev3.csv,Tag appears on synthetic reference drawing; fictional capacity 60 m3 gross and 48 m3 maximum normal working inventory in DEMO-DS-047-003 rev 3
+PV4712.02,Area 47,pressure control valve,area_47_reference_pid.svg; area_47_instrument_monitoring_register_rev3.csv,Fictional vapor pressure-control service only; not a pressure safety valve
+V4701,Area 47,inlet separator,area_47_equipment_datasheets_rev3.csv,Fictional synthetic scenario tag; absent from original reference SVG
+F4702,Area 47,duplex basket strainer,area_47_equipment_datasheets_rev3.csv,Fictional synthetic scenario tag; absent from original reference SVG
+P4751,Area 47,centrifugal export pump,area_47_equipment_datasheets_rev3.csv,Fictional synthetic scenario tag; absent from original reference SVG
+PSV-4750.01,Area 47,illustrative pressure safety valve,area_47_instrument_monitoring_register_rev3.csv,Fictional scenario placeholder; not selected sized or certified

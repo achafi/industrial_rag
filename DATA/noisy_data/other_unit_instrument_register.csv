@@ -1,0 +1,5 @@
+tag,unit,service,range,revision,status
+PT-4712.02,Unit 12,discharge pressure transmitter,0-10 bar,0,archived example
+PV-4712.02,Unit 12,control valve positioner reference,not stated,0,unverified duplicate tag
+P4711,Unit 12,spare-parts cross-reference only,not applicable,0,not an asset record
+

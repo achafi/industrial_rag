@@ -1,0 +1,453 @@
+{
+  "query": "P4711",
+  "query_normalized": "P4711",
+  "document_id": "dexpi_reference_pid",
+  "page": 1,
+  "source_sha256": "05a86f076f6b7a1ef06ef57d7fae1d25fe6d78f95ba8bd2a393c9d07af2e68f9",
+  "image_width": 5000,
+  "image_height": 3536,
+  "match_method": "whole tags plus spatially grouped instrument tags; case-insensitive, optional prefix-number separator",
+  "occurrence_count": 2,
+  "tag_match_count": 2,
+  "region_instances": [
+    {
+      "region_id": "table_upper_left",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.014,
+        "y_min": 0.795,
+        "x_max": 0.229,
+        "y_max": 0.885
+      }
+    },
+    {
+      "region_id": "table_upper_middle",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.233,
+        "y_min": 0.795,
+        "x_max": 0.449,
+        "y_max": 0.885
+      }
+    },
+    {
+      "region_id": "table_lower_left",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.014,
+        "y_min": 0.89,
+        "x_max": 0.229,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "table_lower_middle",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.233,
+        "y_min": 0.89,
+        "x_max": 0.449,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "table_lower_right",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.452,
+        "y_min": 0.89,
+        "x_max": 0.668,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "title_block_main",
+      "region_type": "title_block",
+      "bounds_normalized": {
+        "x_min": 0.7,
+        "y_min": 0.88,
+        "x_max": 0.99,
+        "y_max": 0.985
+      }
+    }
+  ],
+  "context_padding_normalized": {
+    "x": 0.05,
+    "y": 0.05
+  },
+  "groups": {
+    "process_drawing": [
+      {
+        "source_detection_id": "text-0083",
+        "match_id": "text-0083",
+        "region_type": "process_drawing",
+        "source_detection_ids": [
+          "text-0083"
+        ],
+        "source_boxes": [
+          {
+            "x_min": 915,
+            "y_min": 1699,
+            "x_max": 1081,
+            "y_max": 1749
+          }
+        ],
+        "match_method": "complete_ocr_tag",
+        "grouping_evidence": null,
+        "ambiguous": false,
+        "region_id": "local-text-0083",
+        "region_selection_method": "local_spatial_window",
+        "region_bounds": {
+          "x_min": 665,
+          "y_min": 1522,
+          "x_max": 1331,
+          "y_max": 1926
+        },
+        "crop_bounds": {
+          "x_min": 452,
+          "y_min": 1514,
+          "x_max": 1606,
+          "y_max": 1934
+        },
+        "context_selection_method": "intersection_with_initial_window",
+        "crop_expansion_method": "single_pass_union_of_selected_ocr_boxes_with_8px_margin",
+        "matched_text": "P4711",
+        "match_spans_normalized_text": [
+          [
+            0,
+            5
+          ]
+        ],
+        "matches_in_region": 1,
+        "ocr_confidence": 0.9981362104415894,
+        "bounding_box": {
+          "x_min": 915,
+          "y_min": 1699,
+          "x_max": 1081,
+          "y_max": 1749
+        },
+        "highlight_scope": "parent_ocr_region",
+        "nearby_ocr": [
+          {
+            "id": "text-0090",
+            "text_raw": "MNb 47121 75HB13 80N1",
+            "confidence": 0.9904405190831139,
+            "bounding_box": {
+              "x_min": 460,
+              "y_min": 1781,
+              "x_max": 929,
+              "y_max": 1823
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0091",
+            "text_raw": "N2 MNb 47122 75HB13 80 Ni",
+            "confidence": 0.9568580913543702,
+            "bounding_box": {
+              "x_min": 1068,
+              "y_min": 1781,
+              "x_max": 1598,
+              "y_max": 1820
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0098",
+            "text_raw": "80",
+            "confidence": 0.9994875490665436,
+            "bounding_box": {
+              "x_min": 879,
+              "y_min": 1847,
+              "x_max": 932,
+              "y_max": 1886
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0102",
+            "text_raw": "80",
+            "confidence": 0.9996144771575928,
+            "bounding_box": {
+              "x_min": 1071,
+              "y_min": 1848,
+              "x_max": 1121,
+              "y_max": 1884
+            },
+            "region_type": "process_drawing"
+          }
+        ],
+        "context_text": "MNb 47121 75HB13 80N1\nN2 MNb 47122 75HB13 80 Ni\n80\n80",
+        "crop_file": "process_drawing_text-0083.png"
+      }
+    ],
+    "equipment_data_table": [
+      {
+        "source_detection_id": "text-0171",
+        "match_id": "text-0171",
+        "region_type": "equipment_data_table",
+        "source_detection_ids": [
+          "text-0171"
+        ],
+        "source_boxes": [
+          {
+            "x_min": 914,
+            "y_min": 3156,
+            "x_max": 1013,
+            "y_max": 3190
+          }
+        ],
+        "match_method": "complete_ocr_tag",
+        "grouping_evidence": null,
+        "ambiguous": false,
+        "region_id": "table_lower_left",
+        "region_selection_method": "configured_region_instance",
+        "region_bounds": {
+          "x_min": 70,
+          "y_min": 3147,
+          "x_max": 1145,
+          "y_max": 3473
+        },
+        "crop_bounds": {
+          "x_min": 62,
+          "y_min": 3139,
+          "x_max": 1153,
+          "y_max": 3481
+        },
+        "context_selection_method": "center_in_configured_region",
+        "crop_expansion_method": "single_pass_union_of_selected_ocr_boxes_with_8px_margin",
+        "matched_text": "P4711",
+        "match_spans_normalized_text": [
+          [
+            0,
+            5
+          ]
+        ],
+        "matches_in_region": 1,
+        "ocr_confidence": 0.9995762467384338,
+        "bounding_box": {
+          "x_min": 914,
+          "y_min": 3156,
+          "x_max": 1013,
+          "y_max": 3190
+        },
+        "highlight_scope": "parent_ocr_region",
+        "nearby_ocr": [
+          {
+            "id": "text-0172",
+            "text_raw": "Ident",
+            "confidence": 0.9673532247543335,
+            "bounding_box": {
+              "x_min": 77,
+              "y_min": 3158,
+              "x_max": 163,
+              "y_max": 3189
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0177",
+            "text_raw": "-0.5 barg",
+            "confidence": 0.9808114237255521,
+            "bounding_box": {
+              "x_min": 896,
+              "y_min": 3193,
+              "x_max": 1034,
+              "y_max": 3231
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0182",
+            "text_raw": "Design Press. Casing min.",
+            "confidence": 0.998115918636322,
+            "bounding_box": {
+              "x_min": 80,
+              "y_min": 3197,
+              "x_max": 467,
+              "y_max": 3228
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0189",
+            "text_raw": "60 barg",
+            "confidence": 0.9816132187843323,
+            "bounding_box": {
+              "x_min": 904,
+              "y_min": 3233,
+              "x_max": 1025,
+              "y_max": 3270
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0192",
+            "text_raw": "Design Press. Casing max.",
+            "confidence": 0.9949450063705444,
+            "bounding_box": {
+              "x_min": 82,
+              "y_min": 3238,
+              "x_max": 475,
+              "y_max": 3267
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0197",
+            "text_raw": "-45°C",
+            "confidence": 0.9759784460067749,
+            "bounding_box": {
+              "x_min": 914,
+              "y_min": 3273,
+              "x_max": 1017,
+              "y_max": 3307
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0199",
+            "text_raw": "Design Temp. Casing min.",
+            "confidence": 0.9975788469115893,
+            "bounding_box": {
+              "x_min": 80,
+              "y_min": 3274,
+              "x_max": 471,
+              "y_max": 3308
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0203",
+            "text_raw": "80°C",
+            "confidence": 0.9078305959701538,
+            "bounding_box": {
+              "x_min": 919,
+              "y_min": 3310,
+              "x_max": 1010,
+              "y_max": 3345
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0209",
+            "text_raw": "Design Temp. Casing max.",
+            "confidence": 0.9803190877040228,
+            "bounding_box": {
+              "x_min": 80,
+              "y_min": 3314,
+              "x_max": 479,
+              "y_max": 3345
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0213",
+            "text_raw": "10 m",
+            "confidence": 0.9939970523118973,
+            "bounding_box": {
+              "x_min": 1011,
+              "y_min": 3350,
+              "x_max": 1095,
+              "y_max": 3384
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0217",
+            "text_raw": "Design Capacity / Design Press. Head",
+            "confidence": 0.99012534154786,
+            "bounding_box": {
+              "x_min": 80,
+              "y_min": 3352,
+              "x_max": 638,
+              "y_max": 3383
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0218",
+            "text_raw": "200 m3/h",
+            "confidence": 0.9830005019903183,
+            "bounding_box": {
+              "x_min": 806,
+              "y_min": 3352,
+              "x_max": 945,
+              "y_max": 3383
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0227",
+            "text_raw": "Design Speed / Design Power max. Diam. Wheel600 1/min",
+            "confidence": 0.964750422621673,
+            "bounding_box": {
+              "x_min": 79,
+              "y_min": 3389,
+              "x_max": 952,
+              "y_max": 3423
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0230",
+            "text_raw": "60 kW",
+            "confidence": 0.9953855276107788,
+            "bounding_box": {
+              "x_min": 1005,
+              "y_min": 3390,
+              "x_max": 1102,
+              "y_max": 3421
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0233",
+            "text_raw": "1.4306",
+            "confidence": 0.9999175866444906,
+            "bounding_box": {
+              "x_min": 820,
+              "y_min": 3429,
+              "x_max": 929,
+              "y_max": 3460
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0237",
+            "text_raw": "Material Case Press. Side / Material Impeller",
+            "confidence": 0.9789772854910956,
+            "bounding_box": {
+              "x_min": 80,
+              "y_min": 3430,
+              "x_max": 733,
+              "y_max": 3460
+            },
+            "region_type": "equipment_data_table"
+          },
+          {
+            "id": "text-0238",
+            "text_raw": "1.4308",
+            "confidence": 0.9999452630678812,
+            "bounding_box": {
+              "x_min": 1001,
+              "y_min": 3430,
+              "x_max": 1107,
+              "y_max": 3458
+            },
+            "region_type": "equipment_data_table"
+          }
+        ],
+        "context_text": "Ident\n-0.5 barg\nDesign Press. Casing min.\n60 barg\nDesign Press. Casing max.\n-45°C\nDesign Temp. Casing min.\n80°C\nDesign Temp. Casing max.\n10 m\nDesign Capacity / Design Press. Head\n200 m3/h\nDesign Speed / Design Power max. Diam. Wheel600 1/min\n60 kW\n1.4306\nMaterial Case Press. Side / Material Impeller\n1.4308",
+        "crop_file": "equipment_data_table_text-0171.png"
+      }
+    ]
+  },
+  "limitations": [
+    "No match means no exact OCR match, not confirmed equipment absence.",
+    "Nearby OCR is spatial context, not verified equipment ownership or connectivity.",
+    "Highlights cover OCR regions; substring pixel bounds are unavailable.",
+    "Crop expansion preserves selected OCR boxes, not undetected text or every incidental label entering the expanded image.",
+    "Configured table/title regions are specific to this drawing."
+  ]
+}

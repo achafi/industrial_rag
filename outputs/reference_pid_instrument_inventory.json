@@ -1,0 +1,516 @@
+{
+  "grouping_version": 1,
+  "document_id": "dexpi_reference_pid",
+  "page": 1,
+  "prefixes": [
+    "AI",
+    "AIC",
+    "AIT",
+    "AT",
+    "FI",
+    "FIC",
+    "FIT",
+    "FS",
+    "FSH",
+    "FSL",
+    "FT",
+    "HS",
+    "HZ",
+    "LI",
+    "LIC",
+    "LIT",
+    "LS",
+    "LSH",
+    "LSL",
+    "LT",
+    "MS",
+    "PDI",
+    "PDIC",
+    "PDT",
+    "PI",
+    "PIC",
+    "PICSA",
+    "PIT",
+    "PS",
+    "PSH",
+    "PSL",
+    "PT",
+    "PV",
+    "SV",
+    "TI",
+    "TIC",
+    "TICSA",
+    "TIT",
+    "TS",
+    "TSH",
+    "TSL",
+    "TT",
+    "TV",
+    "XV",
+    "ZI",
+    "ZS",
+    "ZT"
+  ],
+  "method": "complete tags plus local aligned prefix/identifier pairs in process_drawing",
+  "confidence_note": "OCR confidence is the minimum source score, not grouping probability.",
+  "instruments": [
+    {
+      "canonical_tag": "HS4750.01",
+      "prefix": "HS",
+      "category": "instrument",
+      "occurrence_count": 1,
+      "occurrence_ids": [
+        "instrument-occurrence-0005"
+      ],
+      "region_types": [
+        "process_drawing"
+      ],
+      "has_grouped_occurrences": true,
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "canonical_tag": "PI4712.01",
+      "prefix": "PI",
+      "category": "instrument",
+      "occurrence_count": 1,
+      "occurrence_ids": [
+        "instrument-occurrence-0006"
+      ],
+      "region_types": [
+        "process_drawing"
+      ],
+      "has_grouped_occurrences": true,
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "canonical_tag": "PICSA4712.02",
+      "prefix": "PICSA",
+      "category": "instrument",
+      "occurrence_count": 1,
+      "occurrence_ids": [
+        "instrument-occurrence-0007"
+      ],
+      "region_types": [
+        "process_drawing"
+      ],
+      "has_grouped_occurrences": true,
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "canonical_tag": "PV4712.02",
+      "prefix": "PV",
+      "category": "instrument",
+      "occurrence_count": 1,
+      "occurrence_ids": [
+        "instrument-occurrence-0001"
+      ],
+      "region_types": [
+        "process_drawing"
+      ],
+      "has_grouped_occurrences": false,
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "canonical_tag": "SV104.01",
+      "prefix": "SV",
+      "category": "instrument",
+      "occurrence_count": 1,
+      "occurrence_ids": [
+        "instrument-occurrence-0002"
+      ],
+      "region_types": [
+        "process_drawing"
+      ],
+      "has_grouped_occurrences": false,
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "canonical_tag": "TICSA4750.03",
+      "prefix": "TICSA",
+      "category": "instrument",
+      "occurrence_count": 1,
+      "occurrence_ids": [
+        "instrument-occurrence-0004"
+      ],
+      "region_types": [
+        "process_drawing"
+      ],
+      "has_grouped_occurrences": true,
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "canonical_tag": "TV4750.03",
+      "prefix": "TV",
+      "category": "instrument",
+      "occurrence_count": 1,
+      "occurrence_ids": [
+        "instrument-occurrence-0003"
+      ],
+      "region_types": [
+        "process_drawing"
+      ],
+      "has_grouped_occurrences": false,
+      "ambiguous": false,
+      "needs_review": true
+    }
+  ],
+  "occurrences": [
+    {
+      "id": "instrument-occurrence-0001",
+      "canonical_tag": "PV4712.02",
+      "prefix": "PV",
+      "identifier": "4712.02",
+      "category": "instrument",
+      "region_type": "process_drawing",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "source_detection_ids": [
+        "text-0027"
+      ],
+      "source_texts": [
+        "PV4712.02"
+      ],
+      "source_boxes": [
+        {
+          "x_min": 3789,
+          "y_min": 1067,
+          "x_max": 3829,
+          "y_max": 1264
+        }
+      ],
+      "bounding_box": {
+        "x_min": 3789,
+        "y_min": 1067,
+        "x_max": 3829,
+        "y_max": 1264
+      },
+      "ocr_confidence": 0.999826278951433,
+      "source_confidences": [
+        0.999826278951433
+      ],
+      "match_method": "complete_ocr_tag",
+      "geometry_evidence": null,
+      "match_span_normalized_text": [
+        0,
+        9
+      ],
+      "classification_status": "provisional",
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "id": "instrument-occurrence-0002",
+      "canonical_tag": "SV104.01",
+      "prefix": "SV",
+      "identifier": "104.01",
+      "category": "instrument",
+      "region_type": "process_drawing",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "source_detection_ids": [
+        "text-0030"
+      ],
+      "source_texts": [
+        "SV 104.01"
+      ],
+      "source_boxes": [
+        {
+          "x_min": 3262,
+          "y_min": 1089,
+          "x_max": 3439,
+          "y_max": 1123
+        }
+      ],
+      "bounding_box": {
+        "x_min": 3262,
+        "y_min": 1089,
+        "x_max": 3439,
+        "y_max": 1123
+      },
+      "ocr_confidence": 0.996066325240665,
+      "source_confidences": [
+        0.996066325240665
+      ],
+      "match_method": "complete_ocr_tag",
+      "geometry_evidence": null,
+      "match_span_normalized_text": [
+        0,
+        9
+      ],
+      "classification_status": "provisional",
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "id": "instrument-occurrence-0003",
+      "canonical_tag": "TV4750.03",
+      "prefix": "TV",
+      "identifier": "4750.03",
+      "category": "instrument",
+      "region_type": "process_drawing",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "source_detection_ids": [
+        "text-0046"
+      ],
+      "source_texts": [
+        "TV4750.03"
+      ],
+      "source_boxes": [
+        {
+          "x_min": 3956,
+          "y_min": 1363,
+          "x_max": 4153,
+          "y_max": 1396
+        }
+      ],
+      "bounding_box": {
+        "x_min": 3956,
+        "y_min": 1363,
+        "x_max": 4153,
+        "y_max": 1396
+      },
+      "ocr_confidence": 0.9998427960607741,
+      "source_confidences": [
+        0.9998427960607741
+      ],
+      "match_method": "complete_ocr_tag",
+      "geometry_evidence": null,
+      "match_span_normalized_text": [
+        0,
+        9
+      ],
+      "classification_status": "provisional",
+      "ambiguous": false,
+      "needs_review": true
+    },
+    {
+      "id": "instrument-occurrence-0004",
+      "canonical_tag": "TICSA4750.03",
+      "prefix": "TICSA",
+      "identifier": "4750.03",
+      "category": "instrument",
+      "region_type": "process_drawing",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "source_detection_ids": [
+        "text-0012",
+        "text-0013"
+      ],
+      "source_texts": [
+        "TICSA",
+        "4750.03"
+      ],
+      "source_boxes": [
+        {
+          "x_min": 2377,
+          "y_min": 688,
+          "x_max": 2484,
+          "y_max": 723
+        },
+        {
+          "x_min": 2354,
+          "y_min": 729,
+          "x_max": 2505,
+          "y_max": 766
+        }
+      ],
+      "bounding_box": {
+        "x_min": 2354,
+        "y_min": 688,
+        "x_max": 2505,
+        "y_max": 766
+      },
+      "ocr_confidence": 0.9988036274909973,
+      "source_confidences": [
+        0.9988036274909973,
+        0.9997284412384033
+      ],
+      "match_method": "spatially_grouped",
+      "geometry_evidence": {
+        "arrangement": "number_below_prefix",
+        "gap_in_text_heights": 0.1622,
+        "alignment_offset_in_text_heights": 0.027
+      },
+      "match_span_normalized_text": null,
+      "classification_status": "provisional",
+      "ambiguous": false,
+      "needs_review": true,
+      "competing_pair_count": 0
+    },
+    {
+      "id": "instrument-occurrence-0005",
+      "canonical_tag": "HS4750.01",
+      "prefix": "HS",
+      "identifier": "4750.01",
+      "category": "instrument",
+      "region_type": "process_drawing",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "source_detection_ids": [
+        "text-0047",
+        "text-0048"
+      ],
+      "source_texts": [
+        "HS",
+        "4750.01"
+      ],
+      "source_boxes": [
+        {
+          "x_min": 1602,
+          "y_min": 1376,
+          "x_max": 1660,
+          "y_max": 1415
+        },
+        {
+          "x_min": 1559,
+          "y_min": 1419,
+          "x_max": 1708,
+          "y_max": 1456
+        }
+      ],
+      "bounding_box": {
+        "x_min": 1559,
+        "y_min": 1376,
+        "x_max": 1708,
+        "y_max": 1456
+      },
+      "ocr_confidence": 0.995864919253758,
+      "source_confidences": [
+        0.9995449185371399,
+        0.995864919253758
+      ],
+      "match_method": "spatially_grouped",
+      "geometry_evidence": {
+        "arrangement": "number_below_prefix",
+        "gap_in_text_heights": 0.1026,
+        "alignment_offset_in_text_heights": 0.0641
+      },
+      "match_span_normalized_text": null,
+      "classification_status": "provisional",
+      "ambiguous": false,
+      "needs_review": true,
+      "competing_pair_count": 0
+    },
+    {
+      "id": "instrument-occurrence-0006",
+      "canonical_tag": "PI4712.01",
+      "prefix": "PI",
+      "identifier": "4712.01",
+      "category": "instrument",
+      "region_type": "process_drawing",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "source_detection_ids": [
+        "text-0064",
+        "text-0069"
+      ],
+      "source_texts": [
+        "PI",
+        "4712.01"
+      ],
+      "source_boxes": [
+        {
+          "x_min": 3326,
+          "y_min": 1531,
+          "x_max": 3367,
+          "y_max": 1569
+        },
+        {
+          "x_min": 3270,
+          "y_min": 1572,
+          "x_max": 3421,
+          "y_max": 1611
+        }
+      ],
+      "bounding_box": {
+        "x_min": 3270,
+        "y_min": 1531,
+        "x_max": 3421,
+        "y_max": 1611
+      },
+      "ocr_confidence": 0.9670195877552032,
+      "source_confidences": [
+        0.9670195877552032,
+        0.9978958283151899
+      ],
+      "match_method": "spatially_grouped",
+      "geometry_evidence": {
+        "arrangement": "number_below_prefix",
+        "gap_in_text_heights": 0.0769,
+        "alignment_offset_in_text_heights": 0.0256
+      },
+      "match_span_normalized_text": null,
+      "classification_status": "provisional",
+      "ambiguous": false,
+      "needs_review": true,
+      "competing_pair_count": 0
+    },
+    {
+      "id": "instrument-occurrence-0007",
+      "canonical_tag": "PICSA4712.02",
+      "prefix": "PICSA",
+      "identifier": "4712.02",
+      "category": "instrument",
+      "region_type": "process_drawing",
+      "document_id": "dexpi_reference_pid",
+      "page": 1,
+      "source_detection_ids": [
+        "text-0067",
+        "text-0070"
+      ],
+      "source_texts": [
+        "PICSA",
+        "4712.02"
+      ],
+      "source_boxes": [
+        {
+          "x_min": 4289,
+          "y_min": 1534,
+          "x_max": 4399,
+          "y_max": 1568
+        },
+        {
+          "x_min": 4271,
+          "y_min": 1574,
+          "x_max": 4421,
+          "y_max": 1611
+        }
+      ],
+      "bounding_box": {
+        "x_min": 4271,
+        "y_min": 1534,
+        "x_max": 4421,
+        "y_max": 1611
+      },
+      "ocr_confidence": 0.9993237495422364,
+      "source_confidences": [
+        0.9993237495422364,
+        0.9996246950966972
+      ],
+      "match_method": "spatially_grouped",
+      "geometry_evidence": {
+        "arrangement": "number_below_prefix",
+        "gap_in_text_heights": 0.1622,
+        "alignment_offset_in_text_heights": 0.0541
+      },
+      "match_span_normalized_text": null,
+      "classification_status": "provisional",
+      "ambiguous": false,
+      "needs_review": true,
+      "competing_pair_count": 0
+    }
+  ],
+  "unpaired_prefix_detection_ids": [],
+  "limitations": [
+    "Prefix conventions and grouping are provisional; no symbol boundary detection.",
+    "Competing geometric pairs remain visible and flagged ambiguous.",
+    "Unknown prefixes, misread text, reversed or distant layouts may be missed."
+  ]
+}

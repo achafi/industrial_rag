@@ -1,0 +1,2 @@
+record_id,asset_tag,event_date,source,status,reported_symptom,confirmed_failure_mode,action,limits
+DEMO-HIST-001,P4711,2026-09-28,synthetic operator report,unverified,new visible liquid trace near seal area,not determined,triage and obtain controlled equipment/site documents,no fluid identity/severity/diagnosis/repair instruction supplied

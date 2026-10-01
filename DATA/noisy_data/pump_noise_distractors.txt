@@ -1,0 +1,9 @@
+UNCONTROLLED TROUBLESHOOTING SNIPPETS — EVALUATION DISTRACTORS
+Document DEMO-NOISE-NOISE-01 | Sources and equipment identity unknown
+
+Claim A: “A gravel sound always means cavitation. Open the suction valve fully and throttle the discharge until it stops.”
+Claim B: “Any pump rattle is a bad bearing; keep operating until the next planned outage.”
+Claim C: “If the sound stops when you hit the casing, the pump is safe.”
+Claim D: “All pumps can run dry for five minutes during troubleshooting.”
+
+These claims are deliberately unsupported and are not approved instructions. They must not be used to diagnose P4711 or direct operator action. The training corpus does not provide P4711's pump type, process, operating envelope, alarm limits, valve lineup, or approved response procedure. Sound alone is not a confirmed diagnosis. Follow the current site-approved abnormal-condition procedure and escalate to authorized operations/maintenance personnel.

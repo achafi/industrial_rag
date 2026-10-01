@@ -1,0 +1,1227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="594" style="background-color: #ffffff;" viewBox="0 0 420 297" width="840">
+  <symbol id="shape-1" overflow="visible">
+    <ellipse fill="none" rx="2.025" ry="2.025" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25" transform="translate(6.075,0)"/>
+    <polyline points="4.05,0 0,0" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-2" overflow="visible">
+    <polyline fill="none" points="-7,1.75 -7,-1.75 -3.5,-1.75 -3.5,-3.5 0,0 -3.5,3.5 -3.5,1.75 -7,1.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+  </symbol>
+  <symbol id="shape-3" overflow="visible">
+    <polyline fill="none" points="-2,-1 2,1 2,-1 -2,1 -2,-1" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <ellipse fill="#808000" rx="0.5" ry="0.5" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-4" overflow="visible">
+    <polyline fill="none" points="-1.75,-1.75 0,0 -1.75,1.75" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+  </symbol>
+  <symbol id="shape-5" overflow="visible">
+    <polyline fill="none" points="-2,-1 2,1 -2,1 -2,-1 2,-1 2,1" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <ellipse fill="#808000" rx="0.5" ry="0.5" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-6" overflow="visible">
+    <polyline fill="none" points="-2,-1 -2,1 2,1 2,-1 -2,-1 2,1" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <ellipse fill="#808000" rx="0.5" ry="0.5" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25" transform="translate(-2,-1)"/>
+  </symbol>
+  <symbol id="shape-7" overflow="visible">
+    <polyline fill="none" points="-2,-1 2,0 -2,1 -2,-1" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-8" overflow="visible">
+    <polyline fill="none" points="-2,-1 2,1 2,-1 -2,1 -2,-1" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <ellipse fill="#ffffff" rx="1" ry="1" stroke="#ffffff" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <ellipse fill="none" rx="1" ry="1" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-9" overflow="visible">
+    <polyline fill="none" points="0,0 2,-1 2,1 0,0 1,2 -1,2 0,0" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <polyline fill="none" points="1.41,-1 1.41,1 1.51,1 1.51,-1 1.41,-1" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <polyline fill="none" points="0,0 0,-1 -1,-1.5 1,-2.333332 -1,-3.166664 1,-4 0,-4.5 0,-5" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <ellipse fill="#808000" rx="0.5" ry="0.5" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-10" overflow="visible">
+    <polyline fill="none" points="-1.75,-1.75 0,0 -1.75,1.75" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-11" overflow="visible">
+    <polyline fill="none" points="-1.75,0.4375 -1.75,-0.4375 1.75,0.4375 -1.75,0.4375" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+  </symbol>
+  <symbol id="shape-12" overflow="visible">
+    <polyline points="0,-0.001 0,0" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    <polyline points="-0.001,0 0.001,0" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-13" overflow="visible">
+    <polyline points="0,-1 0,1" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+  </symbol>
+  <symbol id="shape-14" overflow="visible">
+    <polyline fill="none" points="0,1.75 0,-1.75 3.5,-1.75 3.5,-3.5 7,0 3.5,3.5 3.5,1.75 0,1.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+  </symbol>
+  <symbol id="shape-15" overflow="visible">
+    <polyline points="-4.2,-0.7 4.2,-0.7" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="-4.2,0.7 4.2,0.7" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="-4.2,0 -3.5,-0.7" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="-3.5,0.7 -2.1,-0.7" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="-2.1,0.7 -0.7,-0.7" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="-0.7,0.7 0.7,-0.7" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="0.7,0.7 2.1,-0.7" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="2.1,0.7 3.5,-0.7" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="3.5,0.7 4.2,0" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+  </symbol>
+  <symbol id="shape-16" overflow="visible">
+    <polyline points="-3,-3.75 3,-3.75" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M -3 3.75 A 3.75 3.75 0 0 1 -3 -3.75" fill="none" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="-3,3.75 3,3.75" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M 3 -3.75 A 3.75 3.75 0 0 1 3 3.75" fill="none" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+  </symbol>
+  <symbol id="shape-17" overflow="visible">
+    <polyline points="-3,-3.75 3,-3.75" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M -3 3.75 A 3.75 3.75 0 0 1 -3 -3.75" fill="none" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="-3,3.75 3,3.75" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M 3 -3.75 A 3.75 3.75 0 0 1 3 3.75" fill="none" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <polyline points="-6.75,0 6.75,0" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+  </symbol>
+  <symbol id="shape-18" overflow="visible">
+    <polyline fill="none" points="-12.75,-4 12.75,-4 12.75,4 -12.75,4 -12.75,-4" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-10.625,-4 10.625,4" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-10.625,4 10.625,-4" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-6.375,-4 -6.375,4" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="0,-4 0,4" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="6.375,-4 6.375,4" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+  </symbol>
+  <symbol id="shape-19" overflow="visible">
+    <polyline points="4,-1 4,1" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+    <polyline points="4,0 0,0" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+  </symbol>
+  <symbol id="shape-20" overflow="visible">
+    <polyline fill="none" points="-12.25,-3.5 12.25,-3.5 12.25,3.5 -12.25,3.5 -12.25,-3.5" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-8.75,-3.5 -8.75,3.5" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-12.25,0 -8.75,0" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-8.75,-1.75 7,-1.75" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-8.75,-0.583333 7,-0.583333" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-8.75,0.583333 7,0.583333" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-8.75,1.75 7,1.75" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline fill="none" points="7,-2.625 8.75,-2.625 8.75,2.625 7,2.625 7,-2.625" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+  </symbol>
+  <symbol id="shape-21" overflow="visible">
+    <ellipse fill="none" rx="5.25" ry="5.25" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-5.25,0 5.25,0" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline fill="none" points="0,5.25 5.25,0 0,-5.25" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+  </symbol>
+  <symbol id="shape-22" overflow="visible">
+    <ellipse fill="none" rx="5.25" ry="5.25" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="0,-5.25 5.25,0" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="0,5.25 5.25,0" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-1.75,0 1.75,0" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="1.75,-1.75 1.75,1.75" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+  </symbol>
+  <symbol id="shape-23" overflow="visible">
+    <polyline points="15,21.25 15,-21.25" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <path d="M -15 -21.25 A 36.125 31.875 90 0 1 15 -21.25" fill="none" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <polyline points="-15,-21.25 -15,21.25" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    <path d="M 15 21.25 A 36.125 31.875 90 0 1 -15 21.25" fill="none" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+  </symbol>
+  <symbol id="shape-24" overflow="visible">
+    <polyline fill="none" points="0,-3.5 3,-3.5 3,-5.25" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+    <polyline fill="none" points="0,3.5 3,3.5 3,5.25" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+    <polyline points="4.05,-5.25 4.05,5.25" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+  </symbol>
+  <g>
+    <g>
+      <polyline fill="none" points="1,296 419,296 419,1 1,1 1,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline fill="none" points="4,293 416,293 416,4 4,4 4,293" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(21.166667,3.3655)">1</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(21.166667,295.5155)">1</text>
+      <polyline points="38.333333,293 38.333333,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="38.333333,4 38.333333,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(55.5,3.3655)">2</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(55.5,295.5155)">2</text>
+      <polyline points="72.666667,293 72.666667,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="72.666667,4 72.666667,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(89.833333,3.3655)">3</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(89.833333,295.5155)">3</text>
+      <polyline points="107,293 107,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="107,4 107,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(124.166667,3.3655)">4</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(124.166667,295.5155)">4</text>
+      <polyline points="141.333333,293 141.333333,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="141.333333,4 141.333333,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(158.5,3.3655)">5</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(158.5,295.5155)">5</text>
+      <polyline points="175.666667,293 175.666667,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="175.666667,4 175.666667,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(192.833333,3.3655)">6</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(192.833333,295.5155)">6</text>
+      <polyline points="210,293 210,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="210,4 210,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(227.166667,3.3655)">7</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(227.166667,295.5155)">7</text>
+      <polyline points="244.333333,293 244.333333,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="244.333333,4 244.333333,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(261.5,3.3655)">8</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(261.5,295.5155)">8</text>
+      <polyline points="278.666667,293 278.666667,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="278.666667,4 278.666667,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(295.833333,3.3655)">9</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(295.833333,295.5155)">9</text>
+      <polyline points="313,293 313,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="313,4 313,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(330.166667,3.3655)">10</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(330.166667,295.5155)">10</text>
+      <polyline points="347.333333,293 347.333333,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="347.333333,4 347.333333,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(364.5,3.3655)">11</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(364.5,295.5155)">11</text>
+      <polyline points="381.666667,293 381.666667,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="381.666667,4 381.666667,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(398.833333,3.3655)">12</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(398.833333,295.5155)">12</text>
+      <polyline fill="none" points="208.5,296 210,293 211.5,296" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline fill="none" points="208.5,1 210,4 211.5,1" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(2.425,275.878)">H</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(417.575,275.878)">H</text>
+      <polyline points="1,256.875 4,256.875" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="416,256.875 419,256.875" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(2.425,239.753)">G</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(417.575,239.753)">G</text>
+      <polyline points="1,220.75 4,220.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="416,220.75 419,220.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(2.425,203.628)">F</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(417.575,203.628)">F</text>
+      <polyline points="1,184.625 4,184.625" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="416,184.625 419,184.625" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(2.425,167.503)">E</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(417.575,167.503)">E</text>
+      <polyline points="1,148.5 4,148.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="416,148.5 419,148.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(2.425,131.378)">D</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(417.575,131.378)">D</text>
+      <polyline points="1,112.375 4,112.375" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="416,112.375 419,112.375" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(2.425,95.253)">C</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(417.575,95.253)">C</text>
+      <polyline points="1,76.25 4,76.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="416,76.25 419,76.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(2.425,59.128)">B</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(417.575,59.128)">B</text>
+      <polyline points="1,40.125 4,40.125" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline points="416,40.125 419,40.125" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(2.425,23.003)">A</text>
+      <text fill="#000000" font-family="Calibri" font-size="2.85px" text-anchor="middle" transform="translate(417.575,23.003)">A</text>
+      <polyline fill="none" points="1,150 4,148.5 1,147" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      <polyline fill="none" points="419,150 416,148.5 419,147" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+    </g>
+    <g>
+      <polyline fill="none" points="296,293 296,263 416,263 416,293 296,293" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.58"/>
+      <polyline fill="none" points="296,293 296,288 314,288 314,293 296,293" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(297.2,291.25)">APPROVED BY</text>
+      <polyline fill="none" points="314,293 314,288 344,288 344,293 314,293" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(315.2,291.25)">A. P. Prover</text>
+      <polyline fill="none" points="344,293 344,288 358.4,288 358.4,293 344,293" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(345.2,291.25)">2016-04-01</text>
+      <polyline fill="none" points="358.4,293 358.4,288 380,288 380,293 358.4,293" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(359.6,291.25)">DRAWING NO</text>
+      <polyline fill="none" points="380,293 380,288 416,288 416,293 380,293" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(381.2,291.25)">123/A93</text>
+      <polyline fill="none" points="296,288 296,283 314,283 314,288 296,288" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(297.2,286.25)">CHECKED BY</text>
+      <polyline fill="none" points="314,288 314,283 344,283 344,288 314,288" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(315.2,286.25)">C. Hecker</text>
+      <polyline fill="none" points="344,288 344,283 358.4,283 358.4,288 344,288" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <polyline fill="none" points="358.4,288 358.4,283 380,283 380,288 358.4,288" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(359.6,286.25)">PROJECT</text>
+      <polyline fill="none" points="380,288 380,283 416,283 416,288 380,288" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(381.2,286.25)">P3.1415</text>
+      <polyline fill="none" points="296,283 296,278 314,278 314,283 296,283" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(297.2,281.25)">CREATED BY</text>
+      <polyline fill="none" points="314,283 314,278 344,278 344,283 314,283" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(315.2,281.25)">A. Creator</text>
+      <polyline fill="none" points="344,283 344,278 358.4,278 358.4,283 344,283" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(345.2,281.25)">2016-04-01</text>
+      <polyline fill="none" points="314,278 314,273 344,273 344,278 314,278" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(315.2,276.25)">NAME</text>
+      <polyline fill="none" points="344,278 344,273 358.4,273 358.4,278 344,278" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(345.2,276.25)">DATE</text>
+      <polyline fill="none" points="358.4,283 358.4,273 416,273 416,283 358.4,283" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="4px" transform="translate(359.6,279.2)">DEXPI example PID</text>
+      <polyline fill="none" points="358.4,273 358.4,268 380,268 380,273 358.4,273" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(359.6,271.25)">PLANT SECTION</text>
+      <polyline fill="none" points="380,273 380,268 416,268 416,273 380,273" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(381.2,271.25)">Utilities</text>
+      <polyline fill="none" points="296,273 296,263 358.4,263 358.4,273 296,273" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="4px" transform="translate(297.2,269.2)">Oil &amp; Gas, Inc.</text>
+      <polyline fill="none" points="358.4,268 358.4,263 380,263 380,268 358.4,268" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(359.6,266.25)">SITE</text>
+      <polyline fill="none" points="380,268 380,263 416,263 416,268 380,268" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.28"/>
+      <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(381.2,266.25)">Dexpi City</text>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(321,98) rotate(270)">PV4712.02</text>
+      </g>
+      <g>
+        <g>
+          <use href="#shape-1" transform="translate(323.5,98)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(327,102) rotate(270)">F.C.</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <use href="#shape-1" transform="translate(160,119) rotate(180)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(158,122) rotate(270)">F.C.</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(340.5,117)">TV4750.03</text>
+      </g>
+      <g>
+        <g>
+          <use href="#shape-1" transform="translate(340.5,113) rotate(270)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(337.5,111)">F.O.</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(56.375,152.5)">MNb 47121 75HB13 80</text>
+      </g>
+      <g>
+        <g>
+          <g/>
+          <g>
+            <use href="#shape-2" transform="translate(38,154)"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <polyline points="38,154 74.75,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(112.625,152.5)">MNb 47122 75HB13 80</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="93.25,154 132,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(158.5,90.820498) rotate(270)">MNb 47123 75HB13 80</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline fill="none" points="148,133 160,133 160,121" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-3" transform="translate(160,119) rotate(270)"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <polyline fill="none" points="160,117 160,61 181,61 181,72.640996" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <use href="#shape-4" transform="translate(181,65.640996) rotate(90)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(191.5,148.25) rotate(270)">MNc 47124 75HB13 80</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="194,128.5 194,135" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-5" transform="translate(194,137) rotate(270)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(198.5,137) rotate(270)">66KL21-80</text>
+          </g>
+        </g>
+        <g>
+          <g>
+            <polyline fill="none" points="194,139 194,154 201,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-6" transform="translate(203,154)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(203,151.5)">75SA21-80</text>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="205,154 215,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-7" transform="translate(217,154)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(217,151.5)">80/50</text>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="219,154 229,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-8" transform="translate(231,154)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(231,151.5)">73KH12-50</text>
+          </g>
+        </g>
+        <g>
+          <g>
+            <polyline points="233,154 241.75,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(272.5,116.9995) rotate(270)">MNc 47125 73HG12 25</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="269,153.999 269,96" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-9" transform="translate(269,94) scale(-1,1)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" transform="translate(274,94)">SV 104.01</text>
+            <text fill="#000000" font-family="Calibri" font-size="3px" transform="translate(274,97)">P = 6 barg</text>
+            <text fill="#000000" font-family="Calibri" font-size="3px" transform="translate(274,100)">DN = 25/50</text>
+            <polyline fill="none" points="273,90.9 289,90.9 289,101 273,101 273,90.9" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(236,93)">MNc 47125 75HB13 50</text>
+        </g>
+        <g>
+          <g>
+            <polyline points="267,94 213,94" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <use href="#shape-10" transform="translate(217,94) rotate(180)"/>
+        </g>
+        <g>
+          <use href="#shape-11" transform="translate(257,92.8)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(308.251,152.5)">MNc 47126 75HB13 50</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="260.25,154 264.999,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-12" transform="translate(265,154) rotate(180)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="265,154.001 265,158" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-8" transform="translate(265,160) rotate(270)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(268,165.5)">73KH12-25</text>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="265.001,154 268.999,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-12" transform="translate(269,154)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="269.001,154 280.999,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-12" transform="translate(281,154)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="281,153.999 281,150" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-8" transform="translate(281,148) rotate(270)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(285.5,145) rotate(270)">73KH12-25</text>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g>
+            <use href="#shape-13" transform="translate(281,145.2) rotate(270)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="281.001,154 287,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-8" transform="translate(289,154)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(289,159)">73KH12-50</text>
+          </g>
+        </g>
+        <g>
+          <g>
+            <polyline points="291,154 323.499,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-12" transform="translate(323.5,154)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="323.5,153.999 323.5,137.5" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="323.501,154 364.999,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-12" transform="translate(365,154)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="365,153.999 365,150" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-8" transform="translate(365,148) rotate(270)"/>
+          </g>
+          <g>
+            <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(369.5,146) rotate(270)">73KH12-25</text>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g>
+            <use href="#shape-13" transform="translate(365,145.2) rotate(270)"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="365.001,154 378,154" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g>
+            <use href="#shape-14" transform="translate(378,154)"/>
+          </g>
+        </g>
+        <g>
+          <use href="#shape-4" transform="translate(375,154)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(239.25,82.25)">MNc 47127 75HB13 50 Q 80</text>
+      </g>
+      <g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(311.8,87)">Q80</text>
+        </g>
+        <g>
+          <g>
+            <polyline points="323.5,122.5 323.5,100" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-3" transform="translate(323.5,98) rotate(270)"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <polyline fill="none" points="323.5,96 323.5,83 213,83" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <use href="#shape-10" transform="translate(217,83) rotate(180)"/>
+        </g>
+        <g>
+          <use href="#shape-15" transform="translate(311.8,83) rotate(180)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(119,183) rotate(270)">WKa 47130 75HB13 50</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline fill="none" points="120,202 120,133 132,133" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <use href="#shape-10" transform="translate(120,161) rotate(270)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(152,183) rotate(270)">WKb 47131 75HB13 50</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline fill="none" points="148,154 153,154 153,202" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <use href="#shape-10" transform="translate(153,162.75) rotate(90)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(343.6,183.5) rotate(270)">QSa 47140 75HB13 50 Q 80</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline points="344.5,202 344.5,137.5" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <use href="#shape-10" transform="translate(344.5,161) rotate(270)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(352.2,183.4) rotate(270)">QSb 47141 75HB13 50 Q 80</text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <polyline fill="none" points="328,122.5 328,113 338.5,113" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <g/>
+          <g/>
+          <g>
+            <use href="#shape-3" transform="translate(340.5,113)"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <polyline fill="none" points="342.5,113 353,113 353,202" stroke="#808000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.25"/>
+          </g>
+        </g>
+        <g>
+          <use href="#shape-10" transform="translate(353,162.75) rotate(90)"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-16" transform="translate(281,132)"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(281,131.25)">PI</text>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(281,134.7)">4712.01</text>
+      </g>
+      <g>
+        <g>
+          <polyline points="281,145.2 281,135.75" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.2"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-17" transform="translate(365,132)"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(365,131.25)">PICSA</text>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(365,134.7)">4712.02</text>
+      </g>
+      <g>
+        <g>
+          <polyline points="365,145.2 365,135.75" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.2"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <polyline fill="none" points="365,128.25 365,98 331.6,98" stroke="#0000ff" stroke-dasharray="1.2 1.2" stroke-dashoffset="0.1" stroke-width="0.2"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-17" transform="translate(137,119)"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(137,118.25)">HS</text>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(137,121.7)">4750.01</text>
+      </g>
+      <g>
+        <g>
+          <polyline points="143.75,119 151.9,119" stroke="#0000ff" stroke-dasharray="1.2 1.2" stroke-dashoffset="0.1" stroke-width="0.2"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-17" transform="translate(204,61)"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(204,60.25)">TICSA</text>
+        <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(204,63.7)">4750.03</text>
+      </g>
+      <g>
+        <g>
+          <polyline points="204,71.323817 204,64.75" stroke="#008000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-width="0.2"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <polyline fill="none" points="210.75,61 340.5,61 340.5,104.9" stroke="#0000ff" stroke-dasharray="1.2 1.2" stroke-dashoffset="0.1" stroke-width="0.2"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-18" transform="translate(140,143.5) rotate(270)"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="4.5px" text-anchor="middle" transform="translate(140,163.985)">H1007</text>
+      </g>
+      <g>
+        <polyline points="6,236.5 96,236.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="6,262.5 6,236.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="96,262.5 96,236.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="66,262.5 66,236.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <polyline points="6,239.75 96,239.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,238.95)">Ident</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(81,238.95)">H1007</text>
+        <polyline points="6,243 96,243" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,242.2)">Design Press. min. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,242.2)">-1 barg</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,242.2)">-1 barg</text>
+        <polyline points="6,246.25 96,246.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,245.45)">Design Press. max. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,245.45)">60 barg</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,245.45)">30 barg</text>
+        <polyline points="6,249.5 96,249.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,248.7)">Design Temp. min. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,248.7)">-45 °C</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,248.7)">-45 °C</text>
+        <polyline points="6,252.75 96,252.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,251.95)">Design Temp. max. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,251.95)">100 °C</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,251.95)">100 °C</text>
+        <polyline points="6,256 96,256" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,255.2)">Design Duty / Design Heat Transfer Area</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,255.2)">313 kW</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,255.2)">46.8 m²</text>
+        <polyline points="6,259.25 96,259.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,258.45)">DesignPlate Height / Plate Width</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,258.45)">850 mm</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,258.45)">1100 mm</text>
+        <polyline points="6,262.5 96,262.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,261.7)">MaterialPlates</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(81,261.7)">1.4306</text>
+        <polyline points="81,239.75 81,259.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(136,154) rotate(180)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(133.2,152.14)">N1</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(133.2,157.84)">80</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(144,133)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(146.8,131.14)">N2</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(146.8,136.84)">80</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(136,133) rotate(180)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(133.2,131.14)">N3</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(133.2,136.84)">50</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(144,154)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(146.8,152.14)">N4</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(146.8,157.84)">50</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-20" transform="translate(334,130)"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="4.5px" text-anchor="middle" transform="translate(312,131.485)">H1008</text>
+      </g>
+      <g>
+        <polyline points="98,236.5 188,236.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="98,262.5 98,236.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="188,262.5 188,236.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="158,262.5 158,236.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <polyline points="98,239.75 188,239.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,238.95)">Ident</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(173,238.95)">H1008</text>
+        <polyline points="98,243 188,243" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,242.2)">Design Press. min. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,242.2)">-1 barg</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,242.2)">-1 barg</text>
+        <polyline points="98,246.25 188,246.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,245.45)">Design Press. max. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,245.45)">60 barg</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,245.45)">30 barg</text>
+        <polyline points="98,249.5 188,249.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,248.7)">Design Temp. min. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,248.7)">-45 °C</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,248.7)">-45 °C</text>
+        <polyline points="98,252.75 188,252.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,251.95)">Design Temp. max. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,251.95)">100 °C</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,251.95)">100 °C</text>
+        <polyline points="98,256 188,256" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,255.2)">Design Duty / Design Heat Transfer Area</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,255.2)">313 kW</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,255.2)">46.8 m²</text>
+        <polyline points="98,259.25 188,259.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,258.45)">Nominal Diameter / Tube Length</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,258.45)">DN 800</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,258.45)">2200 mm</text>
+        <polyline points="98,262.5 188,262.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,261.7)">MaterialTubes / Material Shell</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,261.7)">1.4306</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,261.7)">1.4308</text>
+        <polyline points="173,239.75 173,262.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(323.5,133.5) rotate(90)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(327.5,136.99)">N1</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(327.5,139.99)">50</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(323.5,126.5) rotate(270)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(319.5,121.99)">N2</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(319.5,124.99)">50</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(328,126.5) rotate(270)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(332,121.99)">N3</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(332,124.99)">50</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(344.5,133.5) rotate(90)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(340.5,136.99)">N4</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(340.5,139.99)">50</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-21" transform="translate(84,154)"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="4.5px" text-anchor="middle" transform="translate(84,146.485)">P4711</text>
+      </g>
+      <g>
+        <polyline points="6,265 96,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="6,291 6,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="96,291 96,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="66,291 66,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <polyline points="6,268.25 96,268.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,267.45)">Ident</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(81,267.45)">P4711</text>
+        <polyline points="6,271.5 96,271.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,270.7)">Design Press. Casing min.</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(81,270.7)">-0.5 barg</text>
+        <polyline points="6,274.75 96,274.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,273.95)">Design Press. Casing max.</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(81,273.95)">60 barg</text>
+        <polyline points="6,278 96,278" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,277.2)">Design Temp. Casing min.</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(81,277.2)">-45 °C</text>
+        <polyline points="6,281.25 96,281.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,280.45)">Design Temp. Casing max.</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(81,280.45)">80 °C</text>
+        <polyline points="6,284.5 96,284.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,283.7)">Design Capacity / Design Press. Head</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,283.7)">200 m³/h</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,283.7)">10 m</text>
+        <polyline points="6,287.75 96,287.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,286.95)">Design Speed / Design Power max. Diam. Wheel</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,286.95)">600 1/min</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,286.95)">60 kW</text>
+        <polyline points="6,291 96,291" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(6.8,290.2)">Material Case Press. Side / Material Impeller</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(73.5,290.2)">1.4306</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(88.5,290.2)">1.4308</text>
+        <polyline points="81,281.25 81,291" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(78.75,154) rotate(180)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(75.95,152.14)">N1</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(75.95,157.84)">80</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(89.25,154)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(92.05,152.14)">N2</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(92.05,157.84)">80</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-22" transform="translate(251,154)"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="4.5px" text-anchor="middle" transform="translate(251,146.485)">P4712</text>
+      </g>
+      <g>
+        <polyline points="98,265 188,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="98,291 98,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="188,291 188,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="158,291 158,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <polyline points="98,268.25 188,268.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,267.45)">Ident</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(173,267.45)">P4712</text>
+        <polyline points="98,271.5 188,271.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,270.7)">Design Press. Casing min.</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(173,270.7)">-1 barg</text>
+        <polyline points="98,274.75 188,274.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,273.95)">Design Press. Casing max.</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(173,273.95)">60 barg</text>
+        <polyline points="98,278 188,278" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,277.2)">Design Temp. Casing min.</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(173,277.2)">-45 °C</text>
+        <polyline points="98,281.25 188,281.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,280.45)">Design Temp. Casing max.</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(173,280.45)">100 °C</text>
+        <polyline points="98,284.5 188,284.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,283.7)">Design Capacity / Design Press. Head</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,283.7)">420 m³/h</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,283.7)">40 m</text>
+        <polyline points="98,287.75 188,287.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,286.95)">Design Speed / Design Power max. Diam. Wheel</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,286.95)">1400 1/min</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,286.95)">84 kW</text>
+        <polyline points="98,291 188,291" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(98.8,290.2)">Material Case Press. Side / Material Impeller</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(165.5,290.2)">1.4306</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(180.5,290.2)">1.4305</text>
+        <polyline points="173,281.25 173,291" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(245.75,154) rotate(180)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(242.95,152.14)">N1</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(242.95,157.84)">50</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(256.25,154)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(259.05,152.14)">N2</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(259.05,157.84)">50</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <use href="#shape-23" transform="translate(194,99)"/>
+        <polyline points="204,75.323817 204,117.323817" stroke="#800000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      </g>
+      <g>
+        <text fill="#000000" font-family="Calibri" font-size="4.5px" text-anchor="middle" transform="translate(194,100.485)">T4750</text>
+      </g>
+      <g>
+        <polyline points="190,265 280,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="190,291 190,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="280,291 280,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <polyline points="250,291 250,265" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <polyline points="190,268.25 280,268.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(190.8,267.45)">Ident</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(265,267.45)">T4750</text>
+        <polyline points="190,271.5 280,271.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(190.8,270.7)">Design Press. min. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(257.5,270.7)">-0.1 barg</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(272.5,270.7)">-0.1 barg</text>
+        <polyline points="190,274.75 280,274.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(190.8,273.95)">Design Press. max. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(257.5,273.95)">0.1 barg</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(272.5,273.95)">0.05 barg</text>
+        <polyline points="190,278 280,278" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(190.8,277.2)">Design Temp. min. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(257.5,277.2)">-45 °C</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(272.5,277.2)">-45 °C</text>
+        <polyline points="190,281.25 280,281.25" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(190.8,280.45)">Design Temp. max. Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(257.5,280.45)">100 °C</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(272.5,280.45)">100 °C</text>
+        <polyline points="190,284.5 280,284.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(190.8,283.7)">Nominal Diameter / Overall Height/Length</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(257.5,283.7)">DN 20000</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(272.5,283.7)">4 m</text>
+        <polyline points="190,287.75 280,287.75" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(190.8,286.95)">Nominal Capacity</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(265,286.95)">26 m³</text>
+        <polyline points="265,268.25 265,284.5" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+        <polyline points="190,291 280,291" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6"/>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" transform="translate(190.8,290.2)">Material Chamber 1 / 2</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(257.5,290.2)">1.4306</text>
+        <text fill="#000000" font-family="Calibri" font-size="2.5px" text-anchor="middle" transform="translate(272.5,290.2)">1.4305</text>
+        <polyline points="265,287.75 265,291" stroke="#000000" stroke-dasharray="none" stroke-dashoffset="0mm" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3"/>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(181,76.640996) rotate(270)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(177,72.130996)">N1</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(177,75.130996)">80</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(194,124.5) rotate(90)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(190,127.99)">N2</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(190,130.99)">80</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(179,111) rotate(180)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(176.2,109.14)">N3</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(176.2,114.84)">80</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(209,94)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(211.8,92.14)">N5</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(211.8,97.84)">50</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(209,83)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(211.8,81.14)">N6</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(211.8,86.84)">50</text>
+        </g>
+      </g>
+      <g>
+        <g/>
+        <g>
+          <use href="#shape-19" transform="translate(204,75.323817) rotate(270)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(208,70.813817)">N7</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(208,73.813817)">25</text>
+        </g>
+      </g>
+      <g>
+        <g>
+          <use href="#shape-24" transform="translate(179,94) rotate(180)"/>
+        </g>
+        <g>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(171,93.49)">N8</text>
+          <text fill="#000000" font-family="Calibri" font-size="3px" text-anchor="middle" transform="translate(171,96.49)">800</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

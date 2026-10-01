@@ -1,0 +1,5 @@
+UNVERIFIED SHIFT CHAT — NOT A CONTROLLED SOURCE
+
+A copied note claims T4750 is a 250 m3 atmospheric tank fed directly from a different unit's P7401 pump, with an outlet to Area 74. It also says PV4712.02 is the tank's relief valve and suggests opening the bypass if the pressure alarm comes in.
+
+This note has no author, drawing number, approved revision, or source record. It conflicts with the synthetic Area 47 demonstration package and mixes unrelated tag numbers. Do not use it for engineering, operations, equipment limits, connectivity, or maintenance advice. The bypass suggestion is deliberately unverified evaluation noise and must not be treated as an instruction.

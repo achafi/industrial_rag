@@ -1,0 +1,167 @@
+{
+  "document_id": "DEMO-DEXPI-047-003",
+  "revision": 3,
+  "status": "synthetic_training_only_not_for_real_plant_use",
+  "format_note": "DEXPI-inspired demonstration graph; not DEXPI schema compliant and not an engineering exchange file.",
+  "scenario": "fictional stabilized hydrocarbon condensate transfer and buffer storage",
+  "normal_liquid_flow": [
+    "BL-47-IN",
+    "V4701",
+    "F4702",
+    "P4711",
+    "H1007",
+    "T4750",
+    "P4751",
+    "BL-47-OUT"
+  ],
+  "connections": [
+    {
+      "from": "BL-47-IN",
+      "to": "V4701",
+      "line": "47-L-4701-6",
+      "phase": "liquid_feed",
+      "description": "Fictional condensate feed from upstream stabilization battery limit."
+    },
+    {
+      "from": "V4701",
+      "to": "F4702",
+      "line": "47-L-4701-4",
+      "phase": "liquid",
+      "description": "Inlet separator liquid outlet to duplex strainer."
+    },
+    {
+      "from": "F4702",
+      "to": "P4711",
+      "line": "47-L-4702-4",
+      "phase": "liquid",
+      "description": "Strained liquid to transfer pump suction."
+    },
+    {
+      "from": "P4711",
+      "to": "H1007",
+      "line": "47-L-4711-3",
+      "phase": "liquid",
+      "description": "Transfer pump discharge to cooler."
+    },
+    {
+      "from": "H1007",
+      "to": "T4750",
+      "line": "47-L-1007-4",
+      "phase": "cooled_liquid",
+      "description": "Cooled condensate to closed buffer vessel."
+    },
+    {
+      "from": "T4750",
+      "to": "P4751",
+      "line": "47-L-4750-4",
+      "phase": "liquid",
+      "description": "Buffer vessel liquid outlet to export pump suction."
+    },
+    {
+      "from": "P4751",
+      "to": "BL-47-OUT",
+      "line": "47-L-4751-3",
+      "phase": "liquid_product",
+      "description": "Export pump discharge to fictional export battery limit."
+    },
+    {
+      "from": "V4701",
+      "to": "BL-47-VR",
+      "line": "47-G-4701-2",
+      "phase": "separator_vapor",
+      "description": "Inlet separator overhead to closed vapor recovery."
+    },
+    {
+      "from": "T4750",
+      "to": "PV4712.02",
+      "line": "47-G-4750-2",
+      "phase": "vapor",
+      "description": "T4750 vapor outlet through pressure control valve."
+    },
+    {
+      "from": "PV4712.02",
+      "to": "BL-47-VR",
+      "line": "47-G-4750-2",
+      "phase": "vapor",
+      "description": "Pressure control valve outlet to closed vapor recovery."
+    },
+    {
+      "from": "T4750",
+      "to": "PSV-4750.01",
+      "line": "47-G-4750-3",
+      "phase": "relief_vapor",
+      "description": "Separate illustrative relief connection; distinct from PV4712.02."
+    },
+    {
+      "from": "PSV-4750.01",
+      "to": "BL-47-FLARE",
+      "line": "47-G-4750-3",
+      "phase": "relief_vapor",
+      "description": "Relief discharge to fictional closed flare header."
+    }
+  ],
+  "equipment": [
+    {
+      "tag": "V4701",
+      "type": "inlet separator",
+      "gross_capacity_m3": 40,
+      "service": "fictional condensate feed separation"
+    },
+    {
+      "tag": "F4702",
+      "type": "duplex basket strainer",
+      "basket_rating_um": 250,
+      "design_flow_m3_h": 28
+    },
+    {
+      "tag": "P4711",
+      "type": "centrifugal transfer pump",
+      "rated_flow_m3_h": 28,
+      "rated_head_m": 55
+    },
+    {
+      "tag": "H1007",
+      "type": "shell-and-tube cooler",
+      "normal_duty_kW": 220,
+      "design_duty_kW": 280
+    },
+    {
+      "tag": "T4750",
+      "type": "closed buffer vessel",
+      "gross_capacity_m3": 60,
+      "maximum_normal_working_inventory_m3": 48,
+      "design_pressure_barg": 10,
+      "normal_pressure_barg": 2.0
+    },
+    {
+      "tag": "P4751",
+      "type": "centrifugal export pump",
+      "rated_flow_m3_h": 28,
+      "rated_head_m": 45
+    },
+    {
+      "tag": "PV4712.02",
+      "type": "pressure control valve",
+      "service": "T4750 vapor pressure control to vapor recovery; not a relief valve"
+    },
+    {
+      "tag": "PSV-4750.01",
+      "type": "illustrative pressure safety valve",
+      "set_pressure_barg": 8.0,
+      "discharge": "BL-47-FLARE"
+    }
+  ],
+  "instruments": [
+    "FT-4711.01",
+    "PT-4711.01",
+    "PT-4711.02",
+    "TT-1007.01",
+    "LT-4750",
+    "LSHH-4750",
+    "LALL-4750",
+    "PT-4750",
+    "VE-4711.01",
+    "PV4712.02"
+  ],
+  "source_boundary": "Connections and values are invented for this demo package and are not read from the existing reference SVG."
+}

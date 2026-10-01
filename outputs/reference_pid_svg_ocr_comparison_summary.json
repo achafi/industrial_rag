@@ -1,0 +1,19 @@
+{
+  "document_id": "dexpi_reference_pid",
+  "source_sha256": "05a86f076f6b7a1ef06ef57d7fae1d25fe6d78f95ba8bd2a393c9d07af2e68f9",
+  "method": "one-to-one normalized text multiset comparison; no spatial matching",
+  "svg_text_elements_total": 245,
+  "svg_text_elements_compared": 245,
+  "ocr_regions": 256,
+  "exact_normalized_matches": 187,
+  "svg_without_exact_ocr_match": 58,
+  "ocr_without_exact_svg_match": 69,
+  "exact_svg_occurrence_coverage": 0.763265306122449,
+  "ocr_exact_inventory_match_fraction": 0.73046875,
+  "limitations": [
+    "No spatial verification of repeated labels.",
+    "One SVG text element may correspond to multiple OCR regions, or vice versa.",
+    "Fuzzy suggestions are unverified and excluded from match counts.",
+    "Coverage is not character accuracy or spatial detection recall."
+  ]
+}

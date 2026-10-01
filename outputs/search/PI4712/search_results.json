@@ -1,0 +1,293 @@
+{
+  "query": "PI4712",
+  "query_normalized": "PI4712",
+  "document_id": "dexpi_reference_pid",
+  "page": 1,
+  "source_sha256": "05a86f076f6b7a1ef06ef57d7fae1d25fe6d78f95ba8bd2a393c9d07af2e68f9",
+  "image_width": 5000,
+  "image_height": 3536,
+  "search_mode": "contains",
+  "match_method": "contains search over OCR and spatially grouped tags; case-insensitive, optional prefix-number separator",
+  "occurrence_count": 1,
+  "tag_match_count": 1,
+  "region_instances": [
+    {
+      "region_id": "table_upper_left",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.014,
+        "y_min": 0.795,
+        "x_max": 0.229,
+        "y_max": 0.885
+      }
+    },
+    {
+      "region_id": "table_upper_middle",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.233,
+        "y_min": 0.795,
+        "x_max": 0.449,
+        "y_max": 0.885
+      }
+    },
+    {
+      "region_id": "table_lower_left",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.014,
+        "y_min": 0.89,
+        "x_max": 0.229,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "table_lower_middle",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.233,
+        "y_min": 0.89,
+        "x_max": 0.449,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "table_lower_right",
+      "region_type": "equipment_data_table",
+      "bounds_normalized": {
+        "x_min": 0.452,
+        "y_min": 0.89,
+        "x_max": 0.668,
+        "y_max": 0.982
+      }
+    },
+    {
+      "region_id": "title_block_main",
+      "region_type": "title_block",
+      "bounds_normalized": {
+        "x_min": 0.7,
+        "y_min": 0.88,
+        "x_max": 0.99,
+        "y_max": 0.985
+      }
+    }
+  ],
+  "context_padding_normalized": {
+    "x": 0.05,
+    "y": 0.05
+  },
+  "groups": {
+    "process_drawing": [
+      {
+        "source_detection_id": "text-0064",
+        "match_id": "instrument-occurrence-0006",
+        "region_type": "process_drawing",
+        "source_detection_ids": [
+          "text-0064",
+          "text-0069"
+        ],
+        "source_boxes": [
+          {
+            "x_min": 3326,
+            "y_min": 1531,
+            "x_max": 3367,
+            "y_max": 1569
+          },
+          {
+            "x_min": 3270,
+            "y_min": 1572,
+            "x_max": 3421,
+            "y_max": 1611
+          }
+        ],
+        "match_method": "spatially_grouped",
+        "grouping_evidence": {
+          "id": "instrument-occurrence-0006",
+          "canonical_tag": "PI4712.01",
+          "prefix": "PI",
+          "identifier": "4712.01",
+          "category": "instrument",
+          "region_type": "process_drawing",
+          "document_id": "dexpi_reference_pid",
+          "page": 1,
+          "source_detection_ids": [
+            "text-0064",
+            "text-0069"
+          ],
+          "source_texts": [
+            "PI",
+            "4712.01"
+          ],
+          "source_boxes": [
+            {
+              "x_min": 3326,
+              "y_min": 1531,
+              "x_max": 3367,
+              "y_max": 1569
+            },
+            {
+              "x_min": 3270,
+              "y_min": 1572,
+              "x_max": 3421,
+              "y_max": 1611
+            }
+          ],
+          "bounding_box": {
+            "x_min": 3270,
+            "y_min": 1531,
+            "x_max": 3421,
+            "y_max": 1611
+          },
+          "ocr_confidence": 0.9670195877552032,
+          "source_confidences": [
+            0.9670195877552032,
+            0.9978958283151899
+          ],
+          "match_method": "spatially_grouped",
+          "geometry_evidence": {
+            "arrangement": "number_below_prefix",
+            "gap_in_text_heights": 0.0769,
+            "alignment_offset_in_text_heights": 0.0256
+          },
+          "match_span_normalized_text": null,
+          "classification_status": "provisional",
+          "ambiguous": false,
+          "needs_review": true,
+          "competing_pair_count": 0
+        },
+        "ambiguous": false,
+        "region_id": "local-instrument-occurrence-0006",
+        "region_selection_method": "local_spatial_window",
+        "region_bounds": {
+          "x_min": 3020,
+          "y_min": 1354,
+          "x_max": 3671,
+          "y_max": 1788
+        },
+        "crop_bounds": {
+          "x_min": 2895,
+          "y_min": 1176,
+          "x_max": 3884,
+          "y_max": 1836
+        },
+        "context_selection_method": "intersection_with_initial_window",
+        "crop_expansion_method": "single_pass_union_of_selected_ocr_boxes_with_8px_margin",
+        "matched_text": "PI4712.01",
+        "match_quality": "partial",
+        "exact_match_count": 0,
+        "partial_match_count": 1,
+        "match_spans_normalized_text": [
+          [
+            0,
+            6
+          ]
+        ],
+        "matches_in_region": 1,
+        "ocr_confidence": 0.9670195877552032,
+        "bounding_box": {
+          "x_min": 3270,
+          "y_min": 1531,
+          "x_max": 3421,
+          "y_max": 1611
+        },
+        "highlight_scope": "source_ocr_boxes",
+        "nearby_ocr": [
+          {
+            "id": "text-0040",
+            "text_raw": "MNc 47125 73HG12 25",
+            "confidence": 0.9574168575437445,
+            "bounding_box": {
+              "x_min": 3216,
+              "y_min": 1184,
+              "x_max": 3245,
+              "y_max": 1597
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0060",
+            "text_raw": "H1008",
+            "confidence": 0.9974576115608216,
+            "bounding_box": {
+              "x_min": 3626,
+              "y_min": 1524,
+              "x_max": 3801,
+              "y_max": 1569
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0079",
+            "text_raw": "73KH12-25",
+            "confidence": 0.9989970988697476,
+            "bounding_box": {
+              "x_min": 3363,
+              "y_min": 1620,
+              "x_max": 3409,
+              "y_max": 1828
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0084",
+            "text_raw": "P4712",
+            "confidence": 0.9996490240097046,
+            "bounding_box": {
+              "x_min": 2903,
+              "y_min": 1701,
+              "x_max": 3072,
+              "y_max": 1749
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0086",
+            "text_raw": "1004",
+            "confidence": 0.48430655896663666,
+            "bounding_box": {
+              "x_min": 3328,
+              "y_min": 1722,
+              "x_max": 3361,
+              "y_max": 1794
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0092",
+            "text_raw": "N2",
+            "confidence": 0.9986915588378906,
+            "bounding_box": {
+              "x_min": 3057,
+              "y_min": 1781,
+              "x_max": 3109,
+              "y_max": 1821
+            },
+            "region_type": "process_drawing"
+          },
+          {
+            "id": "text-0093",
+            "text_raw": "MNc 47126 75HB13 50",
+            "confidence": 0.9772578948422482,
+            "bounding_box": {
+              "x_min": 3462,
+              "y_min": 1786,
+              "x_max": 3876,
+              "y_max": 1819
+            },
+            "region_type": "process_drawing"
+          }
+        ],
+        "context_text": "MNc 47125 73HG12 25\nH1008\n73KH12-25\nP4712\n1004\nN2\nMNc 47126 75HB13 50",
+        "crop_file": "process_drawing_instrument-occurrence-0006.png"
+      }
+    ]
+  },
+  "limitations": [
+    "No match means no OCR/grouped-tag match in the selected mode, not confirmed equipment absence.",
+    "Partial matches can refer to different instruments; inspect the full matched text.",
+    "Nearby OCR is spatial context, not verified equipment ownership or connectivity.",
+    "Highlights cover OCR regions; substring pixel bounds are unavailable.",
+    "Crop expansion preserves selected OCR boxes, not undetected text or every incidental label entering the expanded image.",
+    "Configured table/title regions are specific to this drawing."
+  ]
+}

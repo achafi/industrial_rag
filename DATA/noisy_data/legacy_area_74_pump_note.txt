@@ -1,0 +1,6 @@
+ARCHIVE COPY — SUPERSEDED TRAINING NOTE
+Document DEMO-ARCH-740 | Revision 0 | Area 74 (not Area 47)
+
+Pump P7411 in the unrelated Area 74 example was described as a centrifugal transfer pump. This old note is not a source for P4711, and its area and tag differ by one digit from the Area 47 sample.
+
+The note has no verified operating limits, approved maintenance interval, or current revision status. Do not merge its details with Area 47 documents.

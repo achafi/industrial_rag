@@ -1,0 +1,12 @@
+SYNTHETIC TRAINING RECORD — NOT A REAL CMMS EXPORT
+Record: DEMO-WO-2025-00471 | Revision: 1
+Area: 47 | Asset: P4711 | Work type: routine condition inspection
+
+Reported observations:
+- No visible leakage observed during the example walkdown.
+- Vibration and bearing temperature were recorded in the mock work pack; this sample intentionally contains no acceptance limits.
+- Coupling guard condition: recorded as present in the illustrative checklist.
+
+Disposition: Review readings against the approved manufacturer documentation and site maintenance strategy. No repair or operating authorization is implied by this record.
+
+Related drawing: area_47_reference_pid.svg. Related tags visible in the drawing include H1007, T4750, and PV4712.02. This log does not establish process connectivity among those tags.

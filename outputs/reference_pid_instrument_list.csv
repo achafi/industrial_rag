@@ -1,0 +1,8 @@
+canonical_tag,prefix,category,occurrence_count,occurrence_ids,region_types,has_grouped_occurrences,ambiguous,needs_review
+HS4750.01,HS,instrument,1,['instrument-occurrence-0005'],['process_drawing'],True,False,True
+PI4712.01,PI,instrument,1,['instrument-occurrence-0006'],['process_drawing'],True,False,True
+PICSA4712.02,PICSA,instrument,1,['instrument-occurrence-0007'],['process_drawing'],True,False,True
+PV4712.02,PV,instrument,1,['instrument-occurrence-0001'],['process_drawing'],False,False,True
+SV104.01,SV,instrument,1,['instrument-occurrence-0002'],['process_drawing'],False,False,True
+TICSA4750.03,TICSA,instrument,1,['instrument-occurrence-0004'],['process_drawing'],True,False,True
+TV4750.03,TV,instrument,1,['instrument-occurrence-0003'],['process_drawing'],False,False,True

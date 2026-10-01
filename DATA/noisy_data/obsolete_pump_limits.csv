@@ -1,0 +1,5 @@
+record_id,tag,area,revision,claimed_limit,claimed_action,status
+OLD-71,P7411,74,0,seal leakage 50 ml/min,continue operation,obsolete unrelated area example
+OCR-471,P47I1,unknown,?,bearing temperature 95 C,replace seal,unverified OCR fragment
+WEB-682,not specified,not specified,unknown,API 682 requires monthly seal replacement,unsupported search snippet
+

@@ -1,0 +1,9 @@
+OCR TRANSCRIPTION — LOW CONFIDENCE, CONTEXT OMITTED
+Source: unidentified low-resolution scan, page 3 of unknown document
+
+... pump P47I1 / P4711? inspect seal monthly ...
+... PV4712.O2 set 16 bar ... [handwritten?]
+... H1007 outlet 185 C ...
+... superseded sketch rev B ...
+
+Warning: character substitutions (I/1, O/0) are unresolved and all numbers above are unverified fragments. The source drawing, equipment and service are not identified. Do not use these strings as design or maintenance requirements.
